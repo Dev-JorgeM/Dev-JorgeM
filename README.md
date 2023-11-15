@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Dev-JorgeM
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...<br>
-        - Circle-Ci<br>
-        - Better loggin for apps<br>
-        - DevContainers
+        - [ ] Circle-Ci<br>
+        - [ ] Better loggin for apps<br>
+        - [ ] DevContainers
         
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
