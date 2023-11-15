@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-JorgeM
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...\n
         [] Circle-Ci
         [] Better loggin for apps
         [] DevContainers
